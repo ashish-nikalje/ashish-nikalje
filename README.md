@@ -13,9 +13,10 @@
 - 💬 Ask me about [Go](https://golang.org/)
 - 📫 How to reach me: [ashish.nik16@gmail.com](ashish.nik16@gmail.com)
 
-[<img src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/social/facebook-ar21.svg" height="50em" align="center" alt="Follow Ashish on Facebook"/>](https://www.facebook.com/ashish.nik16/)
-[<img src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/social/linkedin-ar21.svg" height="50em" align="center" alt="Follow Ashish on LinkedIn"/>](https://www.linkedin.com/in/ashish-nikalje-815858122/) 
-[<img src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/social/twitter-ar21.svg" height="50em" align="center" alt="Follow Ashish on Twitter"/>](https://twitter.com/ashish_a16)
+
+[![Linkedin Badge](https://img.shields.io/badge/-ashish-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashish-nikalje-815858122/)](https://www.linkedin.com/in/ashish-nikalje-815858122/)
+[![Twitter Badge](https://img.shields.io/badge/-@ashish_a16-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashish_a16)](https://twitter.com/ashish_a16)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-white?style=flat&logo=gmail&link=mailto:ashish.nik16@gmail.com)](mailto:ashish.nik16@gmail.com)
 
 ## Experienced with 
 <p align="center" >
