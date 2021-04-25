@@ -39,14 +39,14 @@
 ### <code> <img height="70" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/amazon_aws-ar21.svg"> </code>
 
 <p align="center">
-<code> <img height="80" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/tools/ec2.svg"> </code>
-<code> <img height="80" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/tools/lambda.svg"> </code>
-<code> <img height="80" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/tools/rds.svg"> </code>
-<code> <img height="80" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/tools/route53.svg"> </code>
-<code> <img height="80" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/tools/s3.svg"> </code>
-<code> <img height="80" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/tools/cloudfront.svg"> </code>
-<code> <img height="80" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/tools/cw.svg"> </code>
-<code> <img height="80" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/tools/apigateway.svg"> </code>
+<code> <img height="80" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/ec2.svg"> </code>
+<code> <img height="80" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/lambda.svg"> </code>
+<code> <img height="80" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/rds.svg"> </code>
+<code> <img height="80" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/route53.svg"> </code>
+<code> <img height="80" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/s3.svg"> </code>
+<code> <img height="80" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/cloudfront.svg"> </code>
+<code> <img height="80" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/cw.svg"> </code>
+<code> <img height="80" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/apigateway.svg"> </code>
 
 </p>
 
