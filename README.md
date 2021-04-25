@@ -6,7 +6,7 @@
 <h3 align="center">I :heart: open source!</h3>
 
 <br>
-<img align="right" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/gif/go.gif" width="250px" />
+<img align="right" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/gif/go.gif" width="240px" />
 
 - 🔭 I’m currently working with [scalent](https://scalent.io/) as Backend Golang Developer
 - 👯 I’m looking to collaborate in Open Source Projects
