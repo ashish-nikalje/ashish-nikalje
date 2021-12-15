@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Ashish</h1>
-<h3 align="center">    Go Dev | DevOps Engineer </h3>
+<h3 align="center">    Go Dev | Software Engineer </h3>
 
 
 <h3 align="center">A passionate Golang Developer from India 🇮🇳 </h3>
