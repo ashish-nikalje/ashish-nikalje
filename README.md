@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Ashish</h1>
+<h1 align="center"> Hi I'm Ashish</h1>
 <h3 align="center">    Go Dev | Software Engineer </h3>
 
 
@@ -8,7 +8,7 @@
 <br>
 <img align="right" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/gif/go.gif" width="200px" />
 
-- 🔭 I’m currently working with [Scalent Infotech Pvt Ltd](https://scalent.io/) as Backend Golang Developer
+- 🔭 I’m currently working with [Scalent Infotech Pvt Ltd](https://scalent.io/) as a Backend Golang Developer
 - 👯 I’m looking to collaborate in Open Source Projects
 - 💬 Ask me about [Go](https://golang.org/)
 - 📫 How to reach me: [ashish.nik16@gmail.com]()
