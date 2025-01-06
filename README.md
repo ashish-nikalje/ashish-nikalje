@@ -9,7 +9,7 @@
 ### About Me
 - 🔧 **Currently Working** at [Scalent Infotech Pvt Ltd](https://scalent.io/) as a Backend Golang Developer.
 - ✨ **Collaboration**: Open to collaborating on Open Source Projects.
-- 🔎 **Expertise**: [Go](https://golang.org/).
+- 🔎 **Expertise**: [Go](https://golang.org/), gRPC, RESTful APIs, PostgreSQL, MySQL, Docker, AWS Services, Linux, Git, Prometheus, Grafana, and CI/CD pipelines.
 - 📧 **Contact Me**: [ashish.nik16@gmail.com](mailto:ashish.nik16@gmail.com).
 
 ---
