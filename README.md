@@ -1,10 +1,7 @@
 <h1 align="center"> Hi I'm Ashish</h1>
 <h3 align="center">    Go Dev | Software Engineer </h3>
 
-
 <h3 align="center">A passionate Golang Developer from India 🇮🇳 </h3>
-<h3 align="center">I :heart: open source!</h3>
-
 <br>
 <img align="right" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/gif/go.gif" width="200px" />
 
