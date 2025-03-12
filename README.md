@@ -1,8 +1,10 @@
-<h1 align="center">Hi, I'm Ashish ✨</h1>
-<h3 align="center">Go Developer | Backend Engineer</h3>
-<h3 align="center">Passionate about crafting robust backend systems with Golang from India 🇮🇳</h3>
+# Hi, I'm Ashish ✨
+
+## Go Developer | Backend Engineer  
+Passionate about building scalable and efficient backend systems using Golang.  
 
 <img align="right" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/gif/go.gif" width="200px" alt="Golang animation"/>
+
 
 ---
 
@@ -14,18 +16,11 @@
 
 ---
 
-### Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/ashish-nikalje-815858122/">
-    <img src="https://img.shields.io/badge/-ashish-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/ashish_a16">
-    <img src="https://img.shields.io/badge/-@ashish_a16-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:ashish.nik16@gmail.com">
-    <img src="https://img.shields.io/badge/-gmail-white?style=flat&logo=gmail" alt="Email" />
-  </a>
-</p>
+## Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-nikalje-815858122/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ashish_a16)  
+[![Email](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail)](mailto:ashish.nik16@gmail.com)  
+
 
 ---
 
@@ -63,9 +58,6 @@
 
 --
 
-### Fun Fact
-> Most software developers work with Windows as their main OS, but Linux remains a developer favorite for backend projects!
-
----
-
-> Profile template inspiration: [Ashish](https://github.com/ashish-scalent).
+### Fun Fact's
+>  The first-ever Git commit was made by Linus Torvalds in 2005. Now, Git powers millions of open-source projects worldwide!
+> Did you know? The term "bug" in programming originated from an actual moth stuck in a computer relay in 1947!
