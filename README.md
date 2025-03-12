@@ -1,64 +1,54 @@
-<h1 align="center">Hi, I'm Ashish ✨</h1>
-<h3 align="center">Go Developer | Backend Engineer</h3>
-<h3 align="center">Passionate about crafting robust backend systems with Golang from India 🇮🇳</h3>
+# Hi, I'm Ashish ✨
+
+## Go Developer | Backend Engineer  
+Passionate about building scalable and efficient backend systems using Golang.  
 
 <img align="right" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/gif/go.gif" width="200px" alt="Golang animation"/>
 
 ---
 
-### About Me
-- 🔧 **Currently Working** at [Scalent Infotech Pvt Ltd](https://scalent.io/) as a Backend Golang Developer.
-- ✨ **Collaboration**: Open to collaborating on Open Source Projects.
-- 🔎 **Expertise**: [Go](https://golang.org/), gRPC, RESTful APIs, PostgreSQL, MySQL, Docker, AWS Services, Linux, Git, Prometheus, Grafana, and CI/CD pipelines.
-- 📧 **Contact Me**: [ashish.nik16@gmail.com](mailto:ashish.nik16@gmail.com).
+## About Me  
+- 💼 **Senior Backend Engineer** at [Roll Labs](https://tryroll.com/).  
+- 🚀 **Open to Collaborations** on Open Source Projects.  
+- 💡 **Tech Stack**: Golang, gRPC, REST APIs, PostgreSQL, MySQL, Docker, AWS, Linux, Git, Prometheus, Grafana, CI/CD.  
+- 📧 **Reach Me**: [ashish.nik16@gmail.com](mailto:ashish.nik16@gmail.com).  
 
 ---
 
-### Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/ashish-nikalje-815858122/">
-    <img src="https://img.shields.io/badge/-ashish-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/ashish_a16">
-    <img src="https://img.shields.io/badge/-@ashish_a16-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:ashish.nik16@gmail.com">
-    <img src="https://img.shields.io/badge/-gmail-white?style=flat&logo=gmail" alt="Email" />
-  </a>
-</p>
+## Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-nikalje-815858122/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ashish_a16)  
+[![Email](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail)](mailto:ashish.nik16@gmail.com)  
 
 ---
 
-### Technologies & Tools
+## Technologies & Tools  
+### Languages & Frameworks  
+![Go](https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/technologies/go.png)  
+![gRPC](https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/technologies/grpc.png)  
+![Docker](https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/technologies/docker.png)  
+![AWS](https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/technologies/aws.png)  
+![Linux](https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/technologies/linux.png)  
+![PostgreSQL](https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/technologies/postgres.png)  
+![Prometheus](https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/technologies/prometheous.png)  
+![Postman](https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/tools/postman.png)  
+![Insomnia](https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/tools/isomnia.png)  
 
-#### Languages, Frameworks & Tools
-<p align="center">
-  <code><img height="50" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/technologies/go.png" alt="Go" /></code>
-  <code><img height="50" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/technologies/grpc.png" alt="gRPC" /></code>
-  <code><img height="50" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/technologies/docker.png" alt="Docker" /></code>
-  <code><img height="50" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/technologies/aws.png" alt="AWS" /></code>
-  <code><img height="50" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/technologies/linux.png" alt="Linux" /></code>
-  <code><img height="50" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/technologies/postgres.png" alt="PostgreSQL" /></code>
-  <code><img height="50" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/technologies/prometheous.png" alt="Prometheus" /></code>
-  <code><img height="50" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/tools/postman.png" alt="Postman" /></code>
-  <code><img height="50" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/tools/isomnia.png" alt="Insomnia" /></code>
-</p>
-
-#### AWS Services
-<p align="center">
-  <code><img height="60" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/ec2.svg" alt="AWS EC2" /></code>
-  <code><img height="60" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/lambda.svg" alt="AWS Lambda" /></code>
-  <code><img height="60" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/rds.svg" alt="AWS RDS" /></code>
-  <code><img height="60" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/s3.svg" alt="AWS S3" /></code>
-  <code><img height="60" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/route53.svg" alt="AWS Route 53" /></code>
-  <code><img height="60" src="https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/cloudfront.svg" alt="AWS CloudFront" /></code>
-</p>
+### AWS Services  
+![EC2](https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/ec2.svg)  
+![Lambda](https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/lambda.svg)  
+![RDS](https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/rds.svg)  
+![S3](https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/s3.svg)  
+![Route 53](https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/route53.svg)  
+![CloudFront](https://github.com/ashish-scalent/ashish-scalent/blob/master/assets/amazon/cloudfront.svg)  
 
 ---
 
-### Fun Fact
-> Most software developers work with Windows as their main OS, but Linux remains a developer favorite for backend projects!
+## GitHub Stats  
+![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashish-nikalje&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-nikalje&layout=compact&theme=tokyonight)  
 
----
+--
 
-> Profile template inspiration: [Ashish](https://github.com/ashish-scalent).
+### Fun Fact  
+> While many developers work with Windows, Linux remains a top choice for backend development.
