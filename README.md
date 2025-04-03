@@ -59,5 +59,6 @@ Passionate about building scalable and efficient backend systems using Golang.
 --
 
 ### Fun Fact's
->  The first-ever Git commit was made by Linus Torvalds in 2005. Now, Git powers millions of open-source projects worldwide!
+> The first-ever Git commit was made by Linus Torvalds in 2005. Now, Git powers millions of open-source projects worldwide!
+
 > Did you know? The term "bug" in programming originated from an actual moth stuck in a computer relay in 1947!
